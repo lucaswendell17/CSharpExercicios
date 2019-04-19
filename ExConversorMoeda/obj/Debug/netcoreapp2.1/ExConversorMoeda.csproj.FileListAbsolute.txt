@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExConversorMoeda\obj\Debug\netcoreapp2.1\ExConversorMoeda.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExConversorMoeda\obj\Debug\netcoreapp2.1\ExConversorMoeda.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExConversorMoeda\obj\Debug\netcoreapp2.1\ExConversorMoeda.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExConversorMoeda\obj\Debug\netcoreapp2.1\ExConversorMoeda.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExConversorMoeda\bin\Debug\netcoreapp2.1\ExConversorMoeda.deps.json
+D:\Estudos\C#-Exercicios\ExConversorMoeda\bin\Debug\netcoreapp2.1\ExConversorMoeda.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExConversorMoeda\bin\Debug\netcoreapp2.1\ExConversorMoeda.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExConversorMoeda\bin\Debug\netcoreapp2.1\ExConversorMoeda.dll
+D:\Estudos\C#-Exercicios\ExConversorMoeda\bin\Debug\netcoreapp2.1\ExConversorMoeda.pdb
+D:\Estudos\C#-Exercicios\ExConversorMoeda\obj\Debug\netcoreapp2.1\ExConversorMoeda.dll
+D:\Estudos\C#-Exercicios\ExConversorMoeda\obj\Debug\netcoreapp2.1\ExConversorMoeda.pdb
