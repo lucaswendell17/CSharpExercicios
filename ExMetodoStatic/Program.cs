@@ -16,7 +16,8 @@ namespace ExMetodoStatic
 
             System.Console.WriteLine("Circunferência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
             System.Console.WriteLine("Volume: " + volume.ToString("F2", CultureInfo.InvariantCulture));
-            System.Console.WriteLine("Valor de PI: " + calc.Pi.ToString("F2", CultureInfo.InvariantCulture));
+            System.Console.WriteLine("Valor de PI : " + calc.Pi.ToString("F2", CultureInfo.InvariantCulture));
+
         }
         
     }
