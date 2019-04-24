@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExEncapsulamento\obj\Debug\netcoreapp2.1\ExEncapsulamento.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExEncapsulamento\obj\Debug\netcoreapp2.1\ExEncapsulamento.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExEncapsulamento\obj\Debug\netcoreapp2.1\ExEncapsulamento.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExEncapsulamento\obj\Debug\netcoreapp2.1\ExEncapsulamento.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExEncapsulamento\bin\Debug\netcoreapp2.1\ExEncapsulamento.deps.json
+D:\Estudos\C#-Exercicios\ExEncapsulamento\bin\Debug\netcoreapp2.1\ExEncapsulamento.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExEncapsulamento\bin\Debug\netcoreapp2.1\ExEncapsulamento.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExEncapsulamento\bin\Debug\netcoreapp2.1\ExEncapsulamento.dll
+D:\Estudos\C#-Exercicios\ExEncapsulamento\bin\Debug\netcoreapp2.1\ExEncapsulamento.pdb
+D:\Estudos\C#-Exercicios\ExEncapsulamento\obj\Debug\netcoreapp2.1\ExEncapsulamento.dll
+D:\Estudos\C#-Exercicios\ExEncapsulamento\obj\Debug\netcoreapp2.1\ExEncapsulamento.pdb
