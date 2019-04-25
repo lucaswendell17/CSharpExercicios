@@ -28,7 +28,10 @@ namespace ExEncapsulamento
         }
 
         public void SetNome(string nome){
-            _nome = nome;
+            if (nome != null && nome.Length > 1)
+            {
+                 _nome = nome;   
+            }
         }
         public double ValorTotalEmEstoque()
         {
