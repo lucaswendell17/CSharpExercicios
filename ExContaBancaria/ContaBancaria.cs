@@ -15,11 +15,18 @@ namespace ExContaBancaria
             Nome = nome;
         }
 
-        public ContaBancaria(int numero, string nome, double saldo) : this(numero, nome)
+        public ContaBancaria(int numero, string nome, double depositoInicial) : this(numero, nome)
         {
-            Saldo = saldo;
+           Deposito(depositoInicial);
         }
 
+        public void Deposito(double quantia){
+            Saldo += quantia;
+        }
+
+        public void Saque(double quantia){
+            Saldo -= quantia + 5.00;
+        }
 
         public override string ToString(){
             return "Conta: "
