@@ -13,6 +13,7 @@ namespace ExPropriedade
 
                 Console.WriteLine(p.Nome);
                 Console.WriteLine(p.Preco);
+                Console.WriteLine(p.Quantidade);
 
             }
         }
