@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExContaBancaria\obj\Debug\netcoreapp2.1\ExContaBancaria.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExContaBancaria\obj\Debug\netcoreapp2.1\ExContaBancaria.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExContaBancaria\obj\Debug\netcoreapp2.1\ExContaBancaria.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExContaBancaria\obj\Debug\netcoreapp2.1\ExContaBancaria.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExContaBancaria\bin\Debug\netcoreapp2.1\ExContaBancaria.deps.json
+D:\Estudos\C#-Exercicios\ExContaBancaria\bin\Debug\netcoreapp2.1\ExContaBancaria.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExContaBancaria\bin\Debug\netcoreapp2.1\ExContaBancaria.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExContaBancaria\bin\Debug\netcoreapp2.1\ExContaBancaria.dll
+D:\Estudos\C#-Exercicios\ExContaBancaria\bin\Debug\netcoreapp2.1\ExContaBancaria.pdb
+D:\Estudos\C#-Exercicios\ExContaBancaria\obj\Debug\netcoreapp2.1\ExContaBancaria.dll
+D:\Estudos\C#-Exercicios\ExContaBancaria\obj\Debug\netcoreapp2.1\ExContaBancaria.pdb
