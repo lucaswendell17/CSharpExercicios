@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExPropriedade\bin\Debug\netcoreapp2.1\ExPropriedade.deps.json
+D:\Estudos\C#-Exercicios\ExPropriedade\bin\Debug\netcoreapp2.1\ExPropriedade.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExPropriedade\bin\Debug\netcoreapp2.1\ExPropriedade.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExPropriedade\bin\Debug\netcoreapp2.1\ExPropriedade.dll
+D:\Estudos\C#-Exercicios\ExPropriedade\bin\Debug\netcoreapp2.1\ExPropriedade.pdb
+D:\Estudos\C#-Exercicios\ExPropriedade\obj\Debug\netcoreapp2.1\ExPropriedade.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExPropriedade\obj\Debug\netcoreapp2.1\ExPropriedade.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExPropriedade\obj\Debug\netcoreapp2.1\ExPropriedade.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExPropriedade\obj\Debug\netcoreapp2.1\ExPropriedade.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExPropriedade\obj\Debug\netcoreapp2.1\ExPropriedade.dll
+D:\Estudos\C#-Exercicios\ExPropriedade\obj\Debug\netcoreapp2.1\ExPropriedade.pdb
