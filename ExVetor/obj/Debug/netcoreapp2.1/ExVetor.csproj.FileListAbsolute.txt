@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExVetor\bin\Debug\netcoreapp2.1\ExVetor.deps.json
+D:\Estudos\C#-Exercicios\ExVetor\bin\Debug\netcoreapp2.1\ExVetor.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExVetor\bin\Debug\netcoreapp2.1\ExVetor.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExVetor\bin\Debug\netcoreapp2.1\ExVetor.dll
+D:\Estudos\C#-Exercicios\ExVetor\bin\Debug\netcoreapp2.1\ExVetor.pdb
+D:\Estudos\C#-Exercicios\ExVetor\obj\Debug\netcoreapp2.1\ExVetor.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExVetor\obj\Debug\netcoreapp2.1\ExVetor.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExVetor\obj\Debug\netcoreapp2.1\ExVetor.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExVetor\obj\Debug\netcoreapp2.1\ExVetor.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExVetor\obj\Debug\netcoreapp2.1\ExVetor.dll
+D:\Estudos\C#-Exercicios\ExVetor\obj\Debug\netcoreapp2.1\ExVetor.pdb
