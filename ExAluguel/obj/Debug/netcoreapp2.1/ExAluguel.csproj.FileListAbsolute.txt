@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExAluguel\bin\Debug\netcoreapp2.1\ExAluguel.deps.json
+D:\Estudos\C#-Exercicios\ExAluguel\bin\Debug\netcoreapp2.1\ExAluguel.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExAluguel\bin\Debug\netcoreapp2.1\ExAluguel.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExAluguel\bin\Debug\netcoreapp2.1\ExAluguel.dll
+D:\Estudos\C#-Exercicios\ExAluguel\bin\Debug\netcoreapp2.1\ExAluguel.pdb
+D:\Estudos\C#-Exercicios\ExAluguel\obj\Debug\netcoreapp2.1\ExAluguel.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExAluguel\obj\Debug\netcoreapp2.1\ExAluguel.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExAluguel\obj\Debug\netcoreapp2.1\ExAluguel.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExAluguel\obj\Debug\netcoreapp2.1\ExAluguel.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExAluguel\obj\Debug\netcoreapp2.1\ExAluguel.dll
+D:\Estudos\C#-Exercicios\ExAluguel\obj\Debug\netcoreapp2.1\ExAluguel.pdb
