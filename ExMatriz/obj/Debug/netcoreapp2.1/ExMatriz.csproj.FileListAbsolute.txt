@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.deps.json
+D:\Estudos\C#-Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.dll
+D:\Estudos\C#-Exercicios\ExMatriz\bin\Debug\netcoreapp2.1\ExMatriz.pdb
+D:\Estudos\C#-Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.dll
+D:\Estudos\C#-Exercicios\ExMatriz\obj\Debug\netcoreapp2.1\ExMatriz.pdb
