@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExListas\bin\Debug\netcoreapp2.1\ExListas.deps.json
+D:\Estudos\C#-Exercicios\ExListas\bin\Debug\netcoreapp2.1\ExListas.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExListas\bin\Debug\netcoreapp2.1\ExListas.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExListas\bin\Debug\netcoreapp2.1\ExListas.dll
+D:\Estudos\C#-Exercicios\ExListas\bin\Debug\netcoreapp2.1\ExListas.pdb
+D:\Estudos\C#-Exercicios\ExListas\obj\Debug\netcoreapp2.1\ExListas.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExListas\obj\Debug\netcoreapp2.1\ExListas.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExListas\obj\Debug\netcoreapp2.1\ExListas.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExListas\obj\Debug\netcoreapp2.1\ExListas.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExListas\obj\Debug\netcoreapp2.1\ExListas.dll
+D:\Estudos\C#-Exercicios\ExListas\obj\Debug\netcoreapp2.1\ExListas.pdb
