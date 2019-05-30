@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExEnums\obj\Debug\netcoreapp2.1\ExEnums.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExEnums\obj\Debug\netcoreapp2.1\ExEnums.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExEnums\obj\Debug\netcoreapp2.1\ExEnums.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExEnums\obj\Debug\netcoreapp2.1\ExEnums.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExEnums\bin\Debug\netcoreapp2.1\ExEnums.deps.json
+D:\Estudos\C#-Exercicios\ExEnums\bin\Debug\netcoreapp2.1\ExEnums.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExEnums\bin\Debug\netcoreapp2.1\ExEnums.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExEnums\bin\Debug\netcoreapp2.1\ExEnums.dll
+D:\Estudos\C#-Exercicios\ExEnums\bin\Debug\netcoreapp2.1\ExEnums.pdb
+D:\Estudos\C#-Exercicios\ExEnums\obj\Debug\netcoreapp2.1\ExEnums.dll
+D:\Estudos\C#-Exercicios\ExEnums\obj\Debug\netcoreapp2.1\ExEnums.pdb
