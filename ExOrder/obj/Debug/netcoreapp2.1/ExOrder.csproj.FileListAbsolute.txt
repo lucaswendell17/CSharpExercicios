@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExOrder\obj\Debug\netcoreapp2.1\ExOrder.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExOrder\obj\Debug\netcoreapp2.1\ExOrder.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExOrder\obj\Debug\netcoreapp2.1\ExOrder.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExOrder\obj\Debug\netcoreapp2.1\ExOrder.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExOrder\bin\Debug\netcoreapp2.1\ExOrder.deps.json
+D:\Estudos\C#-Exercicios\ExOrder\bin\Debug\netcoreapp2.1\ExOrder.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExOrder\bin\Debug\netcoreapp2.1\ExOrder.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExOrder\bin\Debug\netcoreapp2.1\ExOrder.dll
+D:\Estudos\C#-Exercicios\ExOrder\bin\Debug\netcoreapp2.1\ExOrder.pdb
+D:\Estudos\C#-Exercicios\ExOrder\obj\Debug\netcoreapp2.1\ExOrder.dll
+D:\Estudos\C#-Exercicios\ExOrder\obj\Debug\netcoreapp2.1\ExOrder.pdb
