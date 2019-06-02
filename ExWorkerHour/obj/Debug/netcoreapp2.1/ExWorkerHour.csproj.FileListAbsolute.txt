@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExWorkerHour\bin\Debug\netcoreapp2.1\ExWorkerHour.deps.json
+D:\Estudos\C#-Exercicios\ExWorkerHour\bin\Debug\netcoreapp2.1\ExWorkerHour.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExWorkerHour\bin\Debug\netcoreapp2.1\ExWorkerHour.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExWorkerHour\bin\Debug\netcoreapp2.1\ExWorkerHour.dll
+D:\Estudos\C#-Exercicios\ExWorkerHour\bin\Debug\netcoreapp2.1\ExWorkerHour.pdb
+D:\Estudos\C#-Exercicios\ExWorkerHour\obj\Debug\netcoreapp2.1\ExWorkerHour.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExWorkerHour\obj\Debug\netcoreapp2.1\ExWorkerHour.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExWorkerHour\obj\Debug\netcoreapp2.1\ExWorkerHour.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExWorkerHour\obj\Debug\netcoreapp2.1\ExWorkerHour.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExWorkerHour\obj\Debug\netcoreapp2.1\ExWorkerHour.dll
+D:\Estudos\C#-Exercicios\ExWorkerHour\obj\Debug\netcoreapp2.1\ExWorkerHour.pdb
