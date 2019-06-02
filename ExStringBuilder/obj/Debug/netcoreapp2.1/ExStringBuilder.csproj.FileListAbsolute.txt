@@ -1,0 +1,11 @@
+D:\Estudos\C#-Exercicios\ExStringBuilder\bin\Debug\netcoreapp2.1\ExStringBuilder.deps.json
+D:\Estudos\C#-Exercicios\ExStringBuilder\bin\Debug\netcoreapp2.1\ExStringBuilder.runtimeconfig.json
+D:\Estudos\C#-Exercicios\ExStringBuilder\bin\Debug\netcoreapp2.1\ExStringBuilder.runtimeconfig.dev.json
+D:\Estudos\C#-Exercicios\ExStringBuilder\bin\Debug\netcoreapp2.1\ExStringBuilder.dll
+D:\Estudos\C#-Exercicios\ExStringBuilder\bin\Debug\netcoreapp2.1\ExStringBuilder.pdb
+D:\Estudos\C#-Exercicios\ExStringBuilder\obj\Debug\netcoreapp2.1\ExStringBuilder.csprojAssemblyReference.cache
+D:\Estudos\C#-Exercicios\ExStringBuilder\obj\Debug\netcoreapp2.1\ExStringBuilder.csproj.CoreCompileInputs.cache
+D:\Estudos\C#-Exercicios\ExStringBuilder\obj\Debug\netcoreapp2.1\ExStringBuilder.AssemblyInfoInputs.cache
+D:\Estudos\C#-Exercicios\ExStringBuilder\obj\Debug\netcoreapp2.1\ExStringBuilder.AssemblyInfo.cs
+D:\Estudos\C#-Exercicios\ExStringBuilder\obj\Debug\netcoreapp2.1\ExStringBuilder.dll
+D:\Estudos\C#-Exercicios\ExStringBuilder\obj\Debug\netcoreapp2.1\ExStringBuilder.pdb
