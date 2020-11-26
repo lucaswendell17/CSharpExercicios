@@ -13,9 +13,9 @@
             this.pecas = new Peca[linhas, colunas];
         }
 
-        public override string ToString()
+        public Peca peca(int linha, int coluna)
         {
-            return pecas.ToString();
+            return pecas[linha, coluna];
         }
     }
 }
