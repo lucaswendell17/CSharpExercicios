@@ -15,18 +15,15 @@ namespace xadrez_console
             try
             {
 
-                //Tabuleiro tab = new Tabuleiro(8, 8);
+                Tabuleiro tab = new Tabuleiro(8, 8);
 
-                //tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
-                //tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
-                //tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(2, 4));
+                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
+                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
+                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(2, 4));
+                tab.colocarPeca(new Rei(tab, Cor.Branca), new Posicao(3, 5));
 
-                //Tela.imprimirTabuleiro(tab);
 
-                PosicaoXadrez pos = new PosicaoXadrez('c', 7);
-                Console.WriteLine(pos);
-                Console.WriteLine(pos.toPosicao());
-
+                Tela.imprimirTabuleiro(tab);
             }
             catch (TabuleiroException ex)
             {
